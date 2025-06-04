@@ -170,11 +170,16 @@ Learning Queue:
   - Docker containerization
 ```
 
-## 🎵 Currently Jamming To
+## 🎵 Music & Coding Vibes
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=zeyzey1337&count=1&unique=true" alt="Spotify Recently Played" />
 </div>
+
+*Note: Spotify integration coming soon! Currently jamming to some epic coding playlists 🎧*
+
+---
+
 
 ## 🏆 Achievements & Certifications
 
@@ -214,14 +219,32 @@ Learning Queue:
 
 ## 🎨 GitHub Contribution Art
 
+## 🐍 Contribution Snake (Alternative)
+
 <div align="center">
-  <img src="https://github.com/zeyzey1337/zeyzey1337/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeyzey1337/zeyzey1337/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zeyzey1337/zeyzey1337/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zeyzey1337/zeyzey1337/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
-## 🔥 Streak Stats
+---
+
+# 🔥 Alternative Stats Cards
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeyzey1337&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeyzey1337&theme=github_dark" alt="Profile Summary" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeyzey1337&theme=github_dark" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zeyzey1337&theme=github_dark" alt="Top Languages by Commits" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeyzey1337&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zeyzey1337&theme=github_dark&utcOffset=8" alt="Productive Time" />
 </div>
 
 ## ⚡ Fun Facts
